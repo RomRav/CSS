@@ -1,0 +1,24 @@
+.identity{
+    background-color: rgb(37, 116, 169);   
+}
+.identity legend{
+    background-color: rgb(37, 116, 169);   
+}
+.adress{
+    background-color: rgb(154, 18, 179);
+}
+.adress legend{
+    background-color: rgb(154, 18, 179);
+}
+.payment{
+    background-color: rgb(219, 10, 91);
+}
+.payment legend{
+    background-color: rgb(219, 10, 91);
+}
+.frame{
+    border: 1px double gray;
+    margin-bottom: 10px;
+}
+
+

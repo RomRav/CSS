@@ -1,0 +1,70 @@
+body{
+    width: 1111px;
+    height: 350px;
+}
+.colors-block{
+    height: 50%;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.multi-colors{
+    height: 75%;
+    width: 65%;
+}
+.orange-grey{
+    display: flex;
+    height: 50%;
+    width: 100%;
+}
+.tri-color-block{
+    display: flex;
+    height: 50%;
+    width: 100%;
+}
+.green-rectangle{
+    background-color: rgb(46, 204, 113);
+    height: 25%;
+    width: 80%;
+}
+.blue-rectangle{
+    background-color: rgb(41, 128, 185);
+    height: 25%;
+    width: 20%;
+}
+.red-rectangle{
+    background-color: rgb(231, 76, 60);
+    height: 75%;
+    width: 35%;
+}
+.orange-rectangle{
+    background-color: rgb(230, 126, 34);
+    height: 100%;
+    width: 50%;
+}
+.grey-rectangle{
+    background-color: rgb(149, 165, 166);
+    height: 100%;
+    width: 50%;
+}
+.yellow-rectangle{
+    background-color: rgb(243, 156, 18);
+    height: 100%;
+    width: 33%;
+}
+.greener-rectangle{
+    background-color: rgb(22, 160, 133);
+    height: 100%;
+    width: 33%;
+}
+.oranger-rectangle{
+    background-color: rgb(211, 84, 0);
+    height: 100%;
+    width: 34%;
+}
+.black-rectangle{
+    background-color: rgb(44, 62, 80);
+    width: 100%;
+    height: 50%;
+}
