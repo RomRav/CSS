@@ -64,8 +64,7 @@ body{
     background-color: #ec6b05;
 }
 header{
-    display: flex;
-   
+    display: flex; 
 }
 header div{
     background-color: #e5e5e5;
@@ -79,10 +78,11 @@ aside div{
 .regular-box-size{
     height: 70px;
     width: 130px;
-    text-align: center;
     border: 1px solid black;
 }
 .planning-contents{
+    margin-left: auto;
+    margin-right: auto;
     color: white;
     display: flex;
     flex-wrap: wrap;
